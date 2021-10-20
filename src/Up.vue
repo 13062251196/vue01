@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-10-15 15:42:55
- * @LastEditTime: 2021-10-20 10:51:43
+ * @LastEditTime: 2021-10-20 11:10:40
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Ed
  * @FilePath: \vue01\src\Up.vue
@@ -15,7 +15,7 @@
 
         </ul>
         <ul>
-            <li>淘宝网首页1</li>
+            <li>淘宝网首页</li>
             <li>我的淘宝</li>
             <li></li>
             <li>购物车</li>
